@@ -2,8 +2,8 @@
 "Reading a line on a fd is way too tedious"
 
 ## Table of Contents
-* [Summary?](#summary)
-* [What is gnl?](#what-is-gnl)
+* [Summary](#summary)
+* [What is gnl?](#what-is-gnl?)
 * [How does it work?](#how-does-it-work)
 
 ## Summary
