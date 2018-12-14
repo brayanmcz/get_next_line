@@ -3,14 +3,13 @@
 
 ## Table of Contents
 * [Summary?](#summary)
-* [What is get_next_line?](#what-is-get_next_line?)
+* [What is gnl?](#what-is-gnl?)
 * [How does it work?](#how-does-it-work)
-* [How do I use get_next_line?](#how-do-i-use-get_next_line?)
 
 ## Summary
 The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
 
-## What is get_next_line?
+## What is gnl?
 This project 'get_next_line' is used to get a line from a file. To successfully read a line from a file we must understand file descriptors.
 One limitation in this project was getting the function to work with a buffer of any size.
 
